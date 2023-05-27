@@ -1,0 +1,61 @@
+Hugging Face
+
+Article
+Talk
+Read
+Edit
+View history
+
+Tools
+From Wikipedia, the free encyclopedia
+This article is about the company. For the emoji, see Emoji.
+Question book-new.svg
+This article relies excessively on references to primary sources. Please improve this article by adding secondary or tertiary sources.
+Find sources: "Hugging Face" – news · newspapers · books · scholar · JSTOR (February 2023) (Learn how and when to remove this template message)
+Hugging Face, Inc.
+Hugging Face logo.png
+Type	Private
+Industry	Artificial intelligence, machine learning, software development
+Founded	2016; 7 years ago in New York City
+Headquarters	New York City, U.S.
+Area served	Worldwide
+Key people	
+Clément Delangue (CEO)
+Julien Chaumond (CTO)
+Thomas Wolf (CSO)
+Products	Transformers, datasets, spaces
+Website	huggingface.co
+Hugging Face, Inc. is an American company that develops tools for building applications using machine learning.[1] It is most notable for its transformers library built for natural language processing applications and its platform that allows users to share machine learning models and datasets.
+
+History
+The company was founded in 2016 by French entrepreneurs Clément Delangue, Julien Chaumond, and Thomas Wolf originally as a company that developed a chatbot app targeted at teenagers.[2] After open-sourcing the model behind the chatbot, the company pivoted to focus on being a platform for machine learning.
+
+In March 2021, Hugging Face raised $40 million in a Series B funding round.[3]
+
+On April 28, 2021, the company launched the BigScience Research Workshop in collaboration with several other research groups to release an open large language model.[4] In 2022, the workshop concluded with the announcement of BLOOM, a multilingual large language model with 176 billion parameters.[5]
+
+On December 21, 2021, the company announced its acquisition of Gradio, a software library used to make interactive browser demos of machine learning models.[6]
+
+On May 5, 2022, the company announced its Series C funding round led by Coatue and Sequoia.[7] The company received a $2 billion valuation.
+
+On May 13, 2022, the company introduced its Student Ambassador Program to help fulfill its mission to teach machine learning to 5 million people by 2023.[8]
+
+On May 26, 2022, the company announced a partnership with Graphcore to optimize its Transformers library for the Graphcore IPU.[9]
+
+On August 3, 2022, the company announced the Private Hub, an enterprise version of its public Hugging Face Hub that supports SaaS or on-premise deployment.[10]
+
+In February 2023, the company announced partnership with Amazon Web Services (AWS) which would allow Hugging Face's products available to AWS customers to use them as the building blocks for their custom applications. The company also said the next generation of BLOOM will be run on Trainium, a proprietary machine learning chip created by AWS.[11][12]
+
+Services and technologies
+Transformers Library
+The Transformers library is a Python package that contains open-source implementations of transformer models for text, image, and audio tasks. It is compatible with the PyTorch, TensorFlow and JAX deep learning libraries and includes implementations of notable models like BERT and GPT.[13] The library was originally called "pytorch-pretrained-bert"[14] which was then renamed to "pytorch-transformers" and finally "transformers."
+
+Hugging Face Hub
+The Hugging Face Hub is a platform (centralized web service) for hosting:[15]
+
+Git-based code repositories, with features similar to GitHub, including discussions and pull requests for projects.
+models, also with Git-based version control;
+datasets, mainly in text, images, and audio;
+web applications ("spaces" and "widgets"), intended for small-scale demos of machine learning applications.
+Other Libraries
+In addition to Transformers and the Hugging Face Hub, the Hugging Face ecosystem contains libraries for other tasks, such as dataset processing ("Datasets"), model evaluation ("Evaluate"), simulation ("Simulate"), machine learning demos ("Gradio").[16]
